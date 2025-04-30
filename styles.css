@@ -1,7 +1,0 @@
-body { font-family: Arial; margin: 0; padding: 0; }
-header { background: #ff0000; color: white; padding: 10px; text-align: center; }
-main { padding: 20px; }
-#video-list video { width: 100%; max-width: 500px; display: block; margin-bottom: 10px; }
-@media (max-width: 600px) {
-  #video-list video { max-width: 100%; }
-}
